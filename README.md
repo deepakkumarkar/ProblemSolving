@@ -32,6 +32,10 @@ Follow the instructions in each problem's directory to run the code. Typically, 
 javac ProblemName.java
 java ProblemName
 
+Or, 
+
+Right Click -> Run As -> Java Application
+
 
 # The problems are organized into the following categories:
 
